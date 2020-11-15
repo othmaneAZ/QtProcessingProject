@@ -1,1 +1,1 @@
-# QtProcessingProject
+# QtProcessingStudent
